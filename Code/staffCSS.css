@@ -1,0 +1,1829 @@
+.mediaViewInfo {
+	--web-view-name: Staff;
+	--web-view-id: Staff;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Staff;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Staff {
+	position: absolute;
+	box-sizing: border-box;
+	background: #E5E5E5;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Staff;
+	--web-view-id: Staff;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+.Rectangle_15 {
+	position: absolute;
+	overflow: visible;
+	width: 2005px;
+	height: 117px;
+	left: -51px;
+	top: 86px;
+}
+.Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 151px;
+	height: 1176px;
+	left: -31px;
+	top: -23px;
+}
+.Rectangle_14 {
+	position: absolute;
+	overflow: visible;
+	width: 1834px;
+	height: 86px;
+	left: 120px;
+	top: 0px;
+}
+#Component {
+	position: absolute;
+	width: 141px;
+	height: 53px;
+	left: 1619px;
+	top: 19px;
+	overflow: visible;
+}
+#Group_4 {
+	position: absolute;
+	width: 141px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.user {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#James {
+	position: absolute;
+	left: 63px;
+	top: 13px;
+	overflow: visible;
+	width: 54px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Group_3 {
+	position: absolute;
+	width: 15px;
+	height: 10px;
+	left: 126px;
+	top: 27px;
+	overflow: visible;
+}
+.Polygon_1 {
+	overflow: visible;
+	position: absolute;
+	width: 15px;
+	height: 10px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Component_A3_Component_22 {
+	position: absolute;
+	width: 60px;
+	height: 27px;
+	left: 1810px;
+	top: 32px;
+	overflow: visible;
+}
+#Help {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 42px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Group_3_A3_Group_191 {
+	position: absolute;
+	width: 15px;
+	height: 10px;
+	left: 45px;
+	top: 14px;
+	overflow: visible;
+}
+.Polygon_1_A3_Polygon_11 {
+	overflow: visible;
+	position: absolute;
+	width: 15px;
+	height: 10px;
+	transform: translate(35px, -6px) matrix(1,0,0,1,-35,6) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Component_A3_Component_23 {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 1516px;
+	top: 19px;
+	overflow: visible;
+}
+.notification {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+.Ellipse_2 {
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	height: 18px;
+	left: 31px;
+	top: 5px;
+}
+#Component_A3_Component_24 {
+	position: absolute;
+	width: 120px;
+	height: 120px;
+	left: 0px;
+	top: 243px;
+	overflow: visible;
+}
+.Rectangle_16 {
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	height: 120px;
+	left: 0px;
+	top: 0px;
+}
+.house {
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	height: 50px;
+	left: 35px;
+	top: 28px;
+}
+#Events {
+	position: absolute;
+	left: 32px;
+	top: 78px;
+	overflow: visible;
+	width: 58px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Component_A3_Component_25 {
+	position: absolute;
+	width: 120px;
+	height: 120px;
+	left: 0px;
+	top: 363px;
+	overflow: visible;
+}
+.Rectangle_17 {
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	height: 120px;
+	left: 0px;
+	top: 0px;
+}
+.calendar {
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	height: 50px;
+	left: 35px;
+	top: 28px;
+}
+#Calendar {
+	position: absolute;
+	left: 21px;
+	top: 78px;
+	overflow: visible;
+	width: 79px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Group_6 {
+	position: absolute;
+	width: 71.071px;
+	height: 40px;
+	left: 180px;
+	top: 23px;
+	overflow: visible;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 71.071px;
+	height: 27px;
+	left: 0px;
+	top: 10px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID13_30 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+#Group_5 {
+	position: absolute;
+	width: 205px;
+	height: 40px;
+	left: 282px;
+	top: 23px;
+	overflow: visible;
+}
+.Path_1_A3_Path_19 {
+	overflow: visible;
+	position: absolute;
+	width: 137px;
+	height: 27px;
+	left: 0px;
+	top: 10px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#October_5_2019 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 206px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+.help {
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	height: 80px;
+	left: 20px;
+	top: 30px;
+}
+#Group_31 {
+	position: absolute;
+	width: 120px;
+	height: 120px;
+	left: 0px;
+	top: 483px;
+	overflow: visible;
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 120px;
+	height: 120px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.team {
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	height: 50px;
+	left: 35px;
+	top: 28px;
+}
+#Staff_A3_Text_379 {
+	position: absolute;
+	left: 40px;
+	top: 78px;
+	overflow: visible;
+	width: 41px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Component_A3_Component_26 {
+	position: absolute;
+	width: 110px;
+	height: 179px;
+	left: 227px;
+	top: 364px;
+	overflow: visible;
+}
+.Path_3 {
+	overflow: visible;
+	position: absolute;
+	width: 100px;
+	height: 120px;
+	left: 5px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_4 {
+	overflow: visible;
+	position: absolute;
+	width: 100px;
+	height: 120px;
+	left: 5px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.add_A3_Rectangle_140 {
+	position: absolute;
+	overflow: visible;
+	width: 60px;
+	height: 60px;
+	left: 25px;
+	top: 30px;
+}
+.add_A3_Rectangle_140 {
+	position: absolute;
+	overflow: visible;
+	width: 60px;
+	height: 60px;
+	left: 25px;
+	top: 30px;
+}
+#Create__Staff_Profile {
+	position: absolute;
+	left: 0px;
+	top: 120px;
+	overflow: hidden;
+	width: 111px;
+	height: 59px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Search_Bar {
+	position: absolute;
+	width: 354px;
+	height: 48px;
+	left: 1516px;
+	top: 230px;
+	overflow: visible;
+}
+.Rectangle_18 {
+	position: absolute;
+	overflow: visible;
+	width: 354px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+.loupe {
+	position: absolute;
+	overflow: visible;
+	width: 30px;
+	height: 30px;
+	left: 20px;
+	top: 9px;
+}
+#Staff_Name {
+	position: absolute;
+	left: 65px;
+	top: 8px;
+	overflow: hidden;
+	width: 174px;
+	height: 31px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Staff_ {
+	position: absolute;
+	left: 180px;
+	top: 98px;
+	overflow: hidden;
+	width: 156px;
+	height: 94px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+}
+#Component_17 {
+	position: absolute;
+	width: 204px;
+	height: 367px;
+	left: 437px;
+	top: 781px;
+	overflow: visible;
+}
+#Group_51 {
+	position: absolute;
+	width: 204px;
+	height: 367px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_20 {
+	position: absolute;
+	overflow: visible;
+	width: 204px;
+	height: 367px;
+	left: 0px;
+	top: 0px;
+}
+#Name {
+	position: absolute;
+	left: 34px;
+	top: 131px;
+	overflow: hidden;
+	width: 138px;
+	height: 44px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(112,112,112,1);
+}
+#Email {
+	position: absolute;
+	left: 34px;
+	top: 269px;
+	overflow: hidden;
+	width: 160px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Staff_ID {
+	position: absolute;
+	left: 34px;
+	top: 175px;
+	overflow: hidden;
+	width: 160px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#School {
+	position: absolute;
+	left: 34px;
+	top: 214px;
+	overflow: hidden;
+	width: 160px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Tel_Number {
+	position: absolute;
+	left: 34px;
+	top: 313px;
+	overflow: hidden;
+	width: 158px;
+	height: 41px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+.user_A3_Rectangle_146 {
+	position: absolute;
+	overflow: visible;
+	width: 121px;
+	height: 121px;
+	left: 13px;
+	top: 10px;
+}
+.Ellipse_18 {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 180px;
+	top: 7px;
+}
+.Ellipse_19 {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 186px;
+	top: 7px;
+}
+.Ellipse_20 {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 192px;
+	top: 7px;
+}
+#Component_18 {
+	position: absolute;
+	width: 204px;
+	height: 367px;
+	left: 691px;
+	top: 781px;
+	overflow: visible;
+}
+#Group_51_A3_Group_196 {
+	position: absolute;
+	width: 204px;
+	height: 367px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_20_A3_Rectangle_148 {
+	position: absolute;
+	overflow: visible;
+	width: 204px;
+	height: 367px;
+	left: 0px;
+	top: 0px;
+}
+#Name_A3_Text_388 {
+	position: absolute;
+	left: 34px;
+	top: 131px;
+	overflow: hidden;
+	width: 138px;
+	height: 44px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(112,112,112,1);
+}
+#Email_A3_Text_389 {
+	position: absolute;
+	left: 34px;
+	top: 269px;
+	overflow: hidden;
+	width: 160px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Staff_ID_A3_Text_390 {
+	position: absolute;
+	left: 34px;
+	top: 175px;
+	overflow: hidden;
+	width: 160px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#School_A3_Text_391 {
+	position: absolute;
+	left: 34px;
+	top: 214px;
+	overflow: hidden;
+	width: 160px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Tel_Number_A3_Text_392 {
+	position: absolute;
+	left: 34px;
+	top: 313px;
+	overflow: hidden;
+	width: 158px;
+	height: 41px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+.user_A3_Rectangle_149 {
+	position: absolute;
+	overflow: visible;
+	width: 121px;
+	height: 121px;
+	left: 13px;
+	top: 10px;
+}
+.Ellipse_18_A3_Ellipse_22 {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 180px;
+	top: 7px;
+}
+.Ellipse_19_A3_Ellipse_23 {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 186px;
+	top: 7px;
+}
+.Ellipse_20_A3_Ellipse_24 {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 192px;
+	top: 7px;
+}
+#Component_19 {
+	position: absolute;
+	width: 204px;
+	height: 367px;
+	left: 945px;
+	top: 781px;
+	overflow: visible;
+}
+#Group_51_A3_Group_197 {
+	position: absolute;
+	width: 204px;
+	height: 367px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_20_A3_Rectangle_151 {
+	position: absolute;
+	overflow: visible;
+	width: 204px;
+	height: 367px;
+	left: 0px;
+	top: 0px;
+}
+#Name_A3_Text_403 {
+	position: absolute;
+	left: 21px;
+	top: 121px;
+	overflow: hidden;
+	width: 138px;
+	height: 44px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(112,112,112,1);
+}
+#Email_A3_Text_404 {
+	position: absolute;
+	left: 21px;
+	top: 259px;
+	overflow: hidden;
+	width: 160px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Staff_ID_A3_Text_395 {
+	position: absolute;
+	left: 34px;
+	top: 175px;
+	overflow: hidden;
+	width: 160px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#School_A3_Text_405 {
+	position: absolute;
+	left: 21px;
+	top: 204px;
+	overflow: hidden;
+	width: 160px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Tel_Number_A3_Text_406 {
+	position: absolute;
+	left: 21px;
+	top: 303px;
+	overflow: hidden;
+	width: 158px;
+	height: 41px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+.user_A3_Rectangle_157 {
+	position: absolute;
+	overflow: visible;
+	width: 121px;
+	height: 121px;
+	left: 0px;
+	top: 0px;
+}
+.Ellipse_18_A3_Ellipse_25 {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 180px;
+	top: 7px;
+}
+.Ellipse_19_A3_Ellipse_26 {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 186px;
+	top: 7px;
+}
+.Ellipse_20_A3_Ellipse_27 {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 192px;
+	top: 7px;
+}
+#Component_21 {
+	position: absolute;
+	width: 204px;
+	height: 367px;
+	left: 1199px;
+	top: 781px;
+	overflow: visible;
+}
+#Group_51_A3_Group_198 {
+	position: absolute;
+	width: 204px;
+	height: 367px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_20_A3_Rectangle_154 {
+	position: absolute;
+	overflow: visible;
+	width: 204px;
+	height: 367px;
+	left: 0px;
+	top: 0px;
+}
+#Name_A3_Text_398 {
+	position: absolute;
+	left: 34px;
+	top: 131px;
+	overflow: hidden;
+	width: 138px;
+	height: 44px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(112,112,112,1);
+}
+#Email_A3_Text_399 {
+	position: absolute;
+	left: 34px;
+	top: 269px;
+	overflow: hidden;
+	width: 160px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Staff_ID_A3_Text_400 {
+	position: absolute;
+	left: 34px;
+	top: 175px;
+	overflow: hidden;
+	width: 160px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#School_A3_Text_401 {
+	position: absolute;
+	left: 34px;
+	top: 214px;
+	overflow: hidden;
+	width: 160px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Tel_Number_A3_Text_402 {
+	position: absolute;
+	left: 34px;
+	top: 313px;
+	overflow: hidden;
+	width: 158px;
+	height: 41px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+.user_A3_Rectangle_155 {
+	position: absolute;
+	overflow: visible;
+	width: 121px;
+	height: 121px;
+	left: 13px;
+	top: 10px;
+}
+.Ellipse_18_A3_Ellipse_28 {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 180px;
+	top: 7px;
+}
+.Ellipse_19_A3_Ellipse_29 {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 186px;
+	top: 7px;
+}
+.Ellipse_20_A3_Ellipse_30 {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 192px;
+	top: 7px;
+}
+#Component_20 {
+	position: absolute;
+	width: 184px;
+	height: 347px;
+	left: 958px;
+	top: 788px;
+	overflow: visible;
+}
+#Group_51_A3_Group_199 {
+	position: absolute;
+	width: 180px;
+	height: 344px;
+	left: 0px;
+	top: 3px;
+	overflow: visible;
+}
+#Name_A3_Text_403 {
+	position: absolute;
+	left: 21px;
+	top: 121px;
+	overflow: hidden;
+	width: 138px;
+	height: 44px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(112,112,112,1);
+}
+#Email_A3_Text_404 {
+	position: absolute;
+	left: 21px;
+	top: 259px;
+	overflow: hidden;
+	width: 160px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#School_A3_Text_405 {
+	position: absolute;
+	left: 21px;
+	top: 204px;
+	overflow: hidden;
+	width: 160px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Tel_Number_A3_Text_406 {
+	position: absolute;
+	left: 21px;
+	top: 303px;
+	overflow: hidden;
+	width: 158px;
+	height: 41px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+.user_A3_Rectangle_157 {
+	position: absolute;
+	overflow: visible;
+	width: 121px;
+	height: 121px;
+	left: 0px;
+	top: 0px;
+}
+.Ellipse_18_A3_Ellipse_31 {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 167px;
+	top: 0px;
+}
+.Ellipse_19_A3_Ellipse_32 {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 173px;
+	top: 0px;
+}
+.Ellipse_20_A3_Ellipse_33 {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 179px;
+	top: 0px;
+}
+#Component_12 {
+	position: absolute;
+	width: 204px;
+	height: 367px;
+	left: 691px;
+	top: 364px;
+	overflow: visible;
+}
+#Group_51_A3_Group_200 {
+	position: absolute;
+	width: 204px;
+	height: 367px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_20_A3_Rectangle_159 {
+	position: absolute;
+	overflow: visible;
+	width: 204px;
+	height: 367px;
+	left: 0px;
+	top: 0px;
+}
+#Name_A3_Text_407 {
+	position: absolute;
+	left: 34px;
+	top: 131px;
+	overflow: hidden;
+	width: 138px;
+	height: 44px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(112,112,112,1);
+}
+#Email_A3_Text_408 {
+	position: absolute;
+	left: 34px;
+	top: 269px;
+	overflow: hidden;
+	width: 160px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Staff_ID_A3_Text_409 {
+	position: absolute;
+	left: 34px;
+	top: 175px;
+	overflow: hidden;
+	width: 160px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#School_A3_Text_410 {
+	position: absolute;
+	left: 34px;
+	top: 214px;
+	overflow: hidden;
+	width: 160px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Tel_Number_A3_Text_411 {
+	position: absolute;
+	left: 34px;
+	top: 313px;
+	overflow: hidden;
+	width: 158px;
+	height: 41px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+.user_A3_Rectangle_160 {
+	position: absolute;
+	overflow: visible;
+	width: 121px;
+	height: 121px;
+	left: 13px;
+	top: 10px;
+}
+.Ellipse_18_A3_Ellipse_34 {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 180px;
+	top: 7px;
+}
+.Ellipse_19_A3_Ellipse_35 {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 186px;
+	top: 7px;
+}
+.Ellipse_20_A3_Ellipse_36 {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 192px;
+	top: 7px;
+}
+#Component_13 {
+	position: absolute;
+	width: 204px;
+	height: 367px;
+	left: 945px;
+	top: 364px;
+	overflow: visible;
+}
+#Group_51_A3_Group_201 {
+	position: absolute;
+	width: 204px;
+	height: 367px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_20_A3_Rectangle_162 {
+	position: absolute;
+	overflow: visible;
+	width: 204px;
+	height: 367px;
+	left: 0px;
+	top: 0px;
+}
+#Name_A3_Text_412 {
+	position: absolute;
+	left: 34px;
+	top: 131px;
+	overflow: hidden;
+	width: 138px;
+	height: 44px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(112,112,112,1);
+}
+#Email_A3_Text_413 {
+	position: absolute;
+	left: 34px;
+	top: 269px;
+	overflow: hidden;
+	width: 160px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Staff_ID_A3_Text_414 {
+	position: absolute;
+	left: 34px;
+	top: 175px;
+	overflow: hidden;
+	width: 160px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#School_A3_Text_415 {
+	position: absolute;
+	left: 34px;
+	top: 214px;
+	overflow: hidden;
+	width: 160px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Tel_Number_A3_Text_416 {
+	position: absolute;
+	left: 34px;
+	top: 313px;
+	overflow: hidden;
+	width: 158px;
+	height: 41px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+.user_A3_Rectangle_163 {
+	position: absolute;
+	overflow: visible;
+	width: 121px;
+	height: 121px;
+	left: 13px;
+	top: 10px;
+}
+.Ellipse_18_A3_Ellipse_37 {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 180px;
+	top: 7px;
+}
+.Ellipse_19_A3_Ellipse_38 {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 186px;
+	top: 7px;
+}
+.Ellipse_20_A3_Ellipse_39 {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 192px;
+	top: 7px;
+}
+#Component_14 {
+	position: absolute;
+	width: 204px;
+	height: 367px;
+	left: 1199px;
+	top: 364px;
+	overflow: visible;
+}
+#Group_51_A3_Group_202 {
+	position: absolute;
+	width: 204px;
+	height: 367px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_20_A3_Rectangle_165 {
+	position: absolute;
+	overflow: visible;
+	width: 204px;
+	height: 367px;
+	left: 0px;
+	top: 0px;
+}
+#Name_A3_Text_417 {
+	position: absolute;
+	left: 34px;
+	top: 131px;
+	overflow: hidden;
+	width: 138px;
+	height: 44px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(112,112,112,1);
+}
+#Email_A3_Text_418 {
+	position: absolute;
+	left: 34px;
+	top: 269px;
+	overflow: hidden;
+	width: 160px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Staff_ID_A3_Text_419 {
+	position: absolute;
+	left: 34px;
+	top: 175px;
+	overflow: hidden;
+	width: 160px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#School_A3_Text_420 {
+	position: absolute;
+	left: 34px;
+	top: 214px;
+	overflow: hidden;
+	width: 160px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Tel_Number_A3_Text_421 {
+	position: absolute;
+	left: 34px;
+	top: 313px;
+	overflow: hidden;
+	width: 158px;
+	height: 41px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+.user_A3_Rectangle_166 {
+	position: absolute;
+	overflow: visible;
+	width: 121px;
+	height: 121px;
+	left: 13px;
+	top: 10px;
+}
+.Ellipse_18_A3_Ellipse_40 {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 180px;
+	top: 7px;
+}
+.Ellipse_19_A3_Ellipse_41 {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 186px;
+	top: 7px;
+}
+.Ellipse_20_A3_Ellipse_42 {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 192px;
+	top: 7px;
+}
+#Component_15 {
+	position: absolute;
+	width: 204px;
+	height: 367px;
+	left: 1453px;
+	top: 364px;
+	overflow: visible;
+}
+#Group_51_A3_Group_203 {
+	position: absolute;
+	width: 204px;
+	height: 367px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_20_A3_Rectangle_168 {
+	position: absolute;
+	overflow: visible;
+	width: 204px;
+	height: 367px;
+	left: 0px;
+	top: 0px;
+}
+#Name_A3_Text_422 {
+	position: absolute;
+	left: 34px;
+	top: 131px;
+	overflow: hidden;
+	width: 138px;
+	height: 44px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(112,112,112,1);
+}
+#Email_A3_Text_423 {
+	position: absolute;
+	left: 34px;
+	top: 269px;
+	overflow: hidden;
+	width: 160px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Staff_ID_A3_Text_424 {
+	position: absolute;
+	left: 34px;
+	top: 175px;
+	overflow: hidden;
+	width: 160px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#School_A3_Text_425 {
+	position: absolute;
+	left: 34px;
+	top: 214px;
+	overflow: hidden;
+	width: 160px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Tel_Number_A3_Text_426 {
+	position: absolute;
+	left: 34px;
+	top: 313px;
+	overflow: hidden;
+	width: 158px;
+	height: 41px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+.user_A3_Rectangle_169 {
+	position: absolute;
+	overflow: visible;
+	width: 121px;
+	height: 121px;
+	left: 13px;
+	top: 10px;
+}
+.Ellipse_18_A3_Ellipse_43 {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 180px;
+	top: 7px;
+}
+.Ellipse_19_A3_Ellipse_44 {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 186px;
+	top: 7px;
+}
+.Ellipse_20_A3_Ellipse_45 {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 192px;
+	top: 7px;
+}
+#Component_16 {
+	position: absolute;
+	width: 204px;
+	height: 367px;
+	left: 1453px;
+	top: 781px;
+	overflow: visible;
+}
+#Group_51_A3_Group_204 {
+	position: absolute;
+	width: 204px;
+	height: 367px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_20_A3_Rectangle_171 {
+	position: absolute;
+	overflow: visible;
+	width: 204px;
+	height: 367px;
+	left: 0px;
+	top: 0px;
+}
+#Name_A3_Text_427 {
+	position: absolute;
+	left: 34px;
+	top: 131px;
+	overflow: hidden;
+	width: 138px;
+	height: 44px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(112,112,112,1);
+}
+#Email_A3_Text_428 {
+	position: absolute;
+	left: 34px;
+	top: 269px;
+	overflow: hidden;
+	width: 160px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Staff_ID_A3_Text_429 {
+	position: absolute;
+	left: 34px;
+	top: 175px;
+	overflow: hidden;
+	width: 160px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#School_A3_Text_430 {
+	position: absolute;
+	left: 34px;
+	top: 214px;
+	overflow: hidden;
+	width: 160px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Tel_Number_A3_Text_431 {
+	position: absolute;
+	left: 34px;
+	top: 313px;
+	overflow: hidden;
+	width: 158px;
+	height: 41px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+.user_A3_Rectangle_172 {
+	position: absolute;
+	overflow: visible;
+	width: 121px;
+	height: 121px;
+	left: 13px;
+	top: 10px;
+}
+.Ellipse_18_A3_Ellipse_46 {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 180px;
+	top: 7px;
+}
+.Ellipse_19_A3_Ellipse_47 {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 186px;
+	top: 7px;
+}
+.Ellipse_20_A3_Ellipse_48 {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 192px;
+	top: 7px;
+}
+#Component_A3_Component_38 {
+	position: absolute;
+	width: 204px;
+	height: 367px;
+	left: 437px;
+	top: 364px;
+	overflow: visible;
+}
+#Group_51_A3_Group_205 {
+	position: absolute;
+	width: 204px;
+	height: 367px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_20_A3_Rectangle_174 {
+	position: absolute;
+	overflow: visible;
+	width: 204px;
+	height: 367px;
+	left: 0px;
+	top: 0px;
+}
+#Name_A3_Text_432 {
+	position: absolute;
+	left: 34px;
+	top: 131px;
+	overflow: hidden;
+	width: 138px;
+	height: 44px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(112,112,112,1);
+}
+#Email_A3_Text_433 {
+	position: absolute;
+	left: 34px;
+	top: 269px;
+	overflow: hidden;
+	width: 160px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Staff_ID_A3_Text_434 {
+	position: absolute;
+	left: 34px;
+	top: 175px;
+	overflow: hidden;
+	width: 160px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#School_A3_Text_435 {
+	position: absolute;
+	left: 34px;
+	top: 214px;
+	overflow: hidden;
+	width: 160px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Tel_Number_A3_Text_436 {
+	position: absolute;
+	left: 34px;
+	top: 313px;
+	overflow: hidden;
+	width: 158px;
+	height: 41px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+.user_A3_Rectangle_175 {
+	position: absolute;
+	overflow: visible;
+	width: 121px;
+	height: 121px;
+	left: 13px;
+	top: 10px;
+}
+.Ellipse_18_A3_Ellipse_49 {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 180px;
+	top: 7px;
+}
+.Ellipse_19_A3_Ellipse_50 {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 186px;
+	top: 7px;
+}
+.Ellipse_20_A3_Ellipse_51 {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 192px;
+	top: 7px;
+}
